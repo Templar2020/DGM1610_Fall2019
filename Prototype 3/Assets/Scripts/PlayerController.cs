@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    void Awake()
+    {
+        //Comment
+    }
     // Start is called before the first frame update
     void Start()
     {
